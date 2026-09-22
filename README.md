@@ -4,4 +4,4 @@ Please DO NOT use this with mal intent and be responsible :)
 
 
 
-mymacro2 can re-enter the same combination more than once, but not mymacro3 as it increases value in intervals of 1 (ex:0000000000 ---> 0000000001)
+mymacro2 can re-enter the same combination more than once, but NOT mymacro3 as it increases value in intervals of 1 (ex:0000000000 ---> 0000000001)
